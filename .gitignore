@@ -1,0 +1,32 @@
+# Python
+backend/venv/
+*.pyc
+__pycache__/
+
+# Node.js
+frontend/node_modules/
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Other
+.DS_Store
+backend/.env
+# Python
+backend/venv/
+*.pyc
+__pycache__/
+
+# Node.js
+frontend/node_modules/
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Other
+.DS_Store
+frontend/.env
