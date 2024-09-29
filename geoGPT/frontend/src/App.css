@@ -1,0 +1,19 @@
+
+.App {
+  height: 100vh;
+  margin: 0;
+}
+
+.main-container {
+  display: flex;
+  height: 100%;
+}
+
+.map-container {
+  flex: 3;
+}
+
+.chat-container {
+  flex: 1;
+  overflow-y: auto;
+}
